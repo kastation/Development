@@ -50,7 +50,7 @@ public class victorBluetooth {
 		
 		LOGGER.info("OS Name and OS num: "+ osName + " " + osNum);
 		LOGGER.info("I made it to work");
-		
+		LOGGER.info("Adding to github");
 		
 	} catch (SecurityException e) {  
         e.printStackTrace();  
